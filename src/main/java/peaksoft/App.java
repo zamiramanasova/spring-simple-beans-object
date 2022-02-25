@@ -13,3 +13,5 @@ public class App {
         System.out.println(koscheiTheDeathless.getRulesByDeth());
     }
 }
+
+
